@@ -23,6 +23,7 @@ const Products = () => {
         <p className="text-8xl text-micolor mt-20xl font-mifuente">
           Color personalizado
         </p>
+        <p>Extra p</p>
       </section>
     </main>
   );
